@@ -16,7 +16,7 @@
 ```http
 GET /get          # 获取已验证代理
 POST /submit      # 提交爬取任务
-GET|POST /proxy   # 代理转发服务
+GET | POST /proxy   # 代理转发服务
 ```
 
 ### ⚙️ 管理系统
