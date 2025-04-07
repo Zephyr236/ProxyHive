@@ -22,7 +22,7 @@ GET | POST /proxy   # 代理转发服务
 ### ⚙️ 管理系统
 - 自动代理源维护（13+数据源）
 
-- 弹性线程池管理（ThreadPoolExecutor）
+- 自动背压控制
 
   
 
