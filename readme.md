@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-开箱即用的智能代理池系统，集成13+公开代理源，提供高效稳定的代理服务与任务调度能力
+开箱即用的代理池系统，Like hive，集成13+公开代理源，提供高效稳定的代理服务与任务调度能力
 
 ## 核心功能
 
