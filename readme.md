@@ -13,7 +13,7 @@
 - 动态速率控制（FlowRateLimiter）
 
 ### 🌐 服务接口
-```http
+```
 GET /get          # 获取已验证代理
 POST /submit      # 提交爬取任务
 GET | POST /proxy   # 代理转发服务
